@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zengwei Yao"
+description              : "Focusing speech & audio modeling: recognition, generation, separation"
+repository               : "yaozengwei/yaozengwei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zengwei Yao (姚增伟)"
+  name             : "Zengwei Yao(姚增伟)"
   avatar           : "images/wechat_photo.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Harbin Institute of Technology (HIT)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=f3Eo9S0AAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "yaozengwei@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/yaozengwei"
   google_plus      :
   keybase          :
   instagram        :
