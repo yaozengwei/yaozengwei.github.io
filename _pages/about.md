@@ -1,4 +1,4 @@
-<img width="227" height="30" alt="image" src="https://github.com/user-attachments/assets/d8cc962a-808c-4159-8443-516790b5cf06" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -22,7 +22,6 @@ I got my master’s degree from Harbin Institute of Technology (HIT), supervised
 Now I am a member of the Next-gen Kaldi team at Xiaomi (via Xiaomi Future Star program), under the supervision of [Dr. Daniel Povey](https://scholar.google.com/citations?user=y_-5FWAAAAAJ&hl=en), an IEEE Fellow renowned in speech processing. I am a core contributor to the open-source speech recognition project [icefall](https://github.com/k2-fsa/icefall), with main contributions in advanced model architectures and training recipes. 
 
 My research mainly focuses on speech and audio modeling, including recognition, generation, and separation, with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, and NeurIPS <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
