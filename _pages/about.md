@@ -21,11 +21,19 @@ I got my master’s degree from Harbin Institute of Technology (HIT), supervised
 
 Now I am a member of the Next-gen Kaldi team at Xiaomi (via Xiaomi Future Star program), under the supervision of [Dr. Daniel Povey](https://scholar.google.com/citations?user=y_-5FWAAAAAJ&hl=en), an IEEE Fellow renowned in speech processing. I am a core contributor to the open-source speech recognition project [icefall](https://github.com/k2-fsa/icefall), with main contributions in advanced model architectures and training recipes. 
 
-My research mainly focuses on speech and audio modeling, including recognition, generation, and separation, with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, and NeurIPS <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research mainly focuses on speech and audio modeling (recognition, generation, and separation), with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, and NeurIPS <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 One paper ([Flow2GAN](https://arxiv.org/abs/2512.23278)) is accepted by ICLR 2026.
+- *2025.09*: &nbsp;🎉🎉 One paper ([TransMLA](https://openreview.net/pdf?id=TcVCu2PKb9)) is accepted by NeurIPS 2025.
+- *2025.08*: &nbsp;🎉🎉 One paper ([ZipVoice](https://arxiv.org/abs/2506.13053)) is accepted by ASRU 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper ([CR-CTC](https://arxiv.org/abs/2410.05101)) is accepted by ICLR 2025.
+- *2024.01*: &nbsp;🎉🎉 One paper ([Zipformer](https://arxiv.org/abs/2310.11230)) is accepted by ICLR 2024 (Oral, Top1.2%).
+- *2023.12*: &nbsp;🎉🎉 Two papers ([PromptASR](https://arxiv.org/abs/2309.07414), [LibriHeavy](https://arxiv.org/abs/2309.08105)) are accepted by ICASSP 2024.
+- *2023.05*: &nbsp;🎉🎉 Two papers ([Delay-penalized CTC](https://arxiv.org/abs/2305.11539), [Blank-regularized CTC](https://arxiv.org/abs/2305.11558)) are accepted by INTERSPEECH 2023.
+- *2023.02*: &nbsp;🎉🎉 Three papers ([Delay-penalized transducer](https://arxiv.org/abs/2211.00490), [MVQ](https://arxiv.org/abs/2211.00508), [Fast decoding](https://arxiv.org/abs/2211.00484)) are accepted by ICASSP 2023.
+- *2022.06*: &nbsp;🎉🎉 One paper ([Pruned RNN-T](https://arxiv.org/abs/2206.13236)) is accepted by INTERSPEECH 2022.
+- *2022.01*: &nbsp;🎉🎉 One paper ([Stepwise-Refining Speech Separation](https://arxiv.org/abs/2110.04791)) is accepted by TASLP 2022.
 
 # 📝 Publications 
 
