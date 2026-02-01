@@ -97,3 +97,5 @@ My research mainly focuses on speech and audio modeling (recognition, generation
 - 2023 CCF 语音对话与听觉专委会语音算法技术交流沙龙: [流式语音识别吐字时延正则化](https://mp.weixin.qq.com/s/B29-bs-dXVowo2QEX1_m5g)
 - 2022 CCF 语音对话与听觉专委会 AI 产业沙龙: [Reworked Conformer 模型与基于多码本量化的蒸馏方案](https://mp.weixin.qq.com/s/hhFGmWnTZco0HFxGidHoCQ)
 
+# 💻 Internships
+- *2021.06 - 2021.08*, Tencent, Shenzhen, China.
