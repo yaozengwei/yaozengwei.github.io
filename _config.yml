@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zengwei Yao"
-description              : "Focusing speech & audio modeling (recognition, generation, separation)"
+description              : "Focusing on speech & audio modeling (recognition, generation, separation)"
 repository               : "yaozengwei/yaozengwei.github.io"
 google_scholar_stats_use_cdn : true
 
