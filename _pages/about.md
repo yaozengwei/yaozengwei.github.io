@@ -33,7 +33,7 @@ My research mainly focuses on speech and audio modeling (recognition, generation
 - *2023.05*: &nbsp;🎉🎉 Two papers ([Delay-penalized CTC](https://arxiv.org/abs/2305.11539), [Blank-regularized CTC](https://arxiv.org/abs/2305.11558)) are accepted by INTERSPEECH 2023.
 - *2023.02*: &nbsp;🎉🎉 Three papers ([Delay-penalized transducer](https://arxiv.org/abs/2211.00490), [MVQ](https://arxiv.org/abs/2211.00508), [Fast decoding](https://arxiv.org/abs/2211.00484)) are accepted by ICASSP 2023.
 - *2022.06*: &nbsp;🎉🎉 One paper ([Pruned RNN-T](https://arxiv.org/abs/2206.13236)) is accepted by INTERSPEECH 2022.
-- *2022.02*: I join Next-gen Kaldi team, Xiaomi. 
+- *2022.02*: I join Xiaomi Next-gen Kaldi team, under the supervision of [Dr. Daniel Povey](https://scholar.google.com/citations?user=y_-5FWAAAAAJ&hl=en) 
 - *2022.01*: &nbsp;🎉🎉 One paper ([Stepwise-Refining Speech Separation](https://arxiv.org/abs/2110.04791)) is accepted by TASLP 2022.
 
 # 📝 Publications 
