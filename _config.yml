@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zengwei Yao//(姚增伟)"
+  name             : "Zengwei Yao"
   avatar           : "images/wechat_photo.jpg"
   bio              : "Harbin Institute of Technology (HIT)"
   location         : "Beijing, China"
