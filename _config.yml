@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zengwei Yao"
-description              : "Focusing speech / audio modeling: recognition, generation, separation"
+description              : "Focusing speech & audio modeling (recognition, generation, separation)"
 repository               : "yaozengwei/yaozengwei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zengwei Yao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : # "Harbin Institute of Technology (HIT)"
+  bio              : " " # "Harbin Institute of Technology (HIT)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : # "https://dblp.org/pid/246/8804.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
