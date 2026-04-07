@@ -21,7 +21,7 @@ I got my master’s degree from Harbin Institute of Technology (HIT), supervised
 
 Now I am a member of the Next-gen Kaldi team at Xiaomi (via Xiaomi Future Star program), under the supervision of [Dr. Daniel Povey](https://scholar.google.com/citations?user=y_-5FWAAAAAJ&hl=en), an IEEE Fellow renowned in speech processing. I am a core contributor to the open-source speech recognition project [icefall](https://github.com/k2-fsa/icefall) [![Stars](https://img.shields.io/github/stars/k2-fsa/icefall?style=social)](https://github.com/k2-fsa/icefall), with main contributions in advanced model architectures and training recipes. 
 
-My research mainly focuses on speech and audio modeling (recognition, generation, and separation), with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, and NeurIPS <a href='https://scholar.google.com/citations?user=f3Eo9S0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer for ICLR, ICML, and ACL.
+My research mainly focuses on speech and audio modeling (recognition, generation, and separation), with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, NeurIPS, and ACL <a href='https://scholar.google.com/citations?user=f3Eo9S0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer for ICLR, ICML, and ACL.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 We release the Omnilingual Zero-Shot TTS model [OmniVoice](https://arxiv.org/abs/2604.00688).
