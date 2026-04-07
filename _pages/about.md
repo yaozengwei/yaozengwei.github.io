@@ -24,6 +24,8 @@ Now I am a member of the Next-gen Kaldi team at Xiaomi (via Xiaomi Future Star p
 My research mainly focuses on speech and audio modeling (recognition, generation, and separation), with publications in reputable conferences and journals such as ICLR, TASLP, ICASSP, INTERSPEECH, ASRU, and NeurIPS <a href='https://scholar.google.com/citations?user=f3Eo9S0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I also serve as a reviewer for ICLR, ICML, and ACL.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 We release the Omnilingual Zero-Shot TTS model [OmniVoice](https://arxiv.org/abs/2604.00688).
+- *2026.04*: &nbsp;🎉🎉 One paper ([ZipVoice-Dialog](https://arxiv.org/abs/2507.09318)) is accepted by ACL 2026 (Findings).
 - *2026.01*: &nbsp;🎉🎉 One paper ([Flow2GAN](https://arxiv.org/abs/2512.23278)) is accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper ([TransMLA](https://openreview.net/pdf?id=TcVCu2PKb9)) is accepted by NeurIPS 2025 (Spotlight, Top 3.19%).
 - *2025.08*: &nbsp;🎉🎉 One paper ([ZipVoice](https://arxiv.org/abs/2506.13053)) is accepted by ASRU 2025.
@@ -65,6 +67,10 @@ My research mainly focuses on speech and audio modeling (recognition, generation
   F Meng, P Tang, **Z Yao**, X Sun, M Zhang
   [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/MuLabPKU/TransMLA)
 
+- **[ACL 2026 Findings]** [ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching](https://arxiv.org/abs/2507.09318),
+  H Zhu, W Kang, L Guo, **Z Yao**, F Kuang, W Zhuang, Z Li, Z Han, D Zhang, X Zhang, X Song, L Lin, D Povey
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
+  
 - **[ASRU 2025]** [ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching](https://arxiv.org/abs/2506.13053),
   H Zhu, W Kang, **Z Yao**, L Guo, F Kuang, Z Li, W Zhuang, L Lin, D Povey
   [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
