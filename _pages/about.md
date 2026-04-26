@@ -40,9 +40,7 @@ My research mainly focuses on speech and audio modeling (recognition, generation
 
 # 📝 Publications 
 
-- **[ICLR 2026]** [Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation](https://arxiv.org/abs/2512.23278),
-  **Z Yao**, W Kang, H Zhu, L Guo, L Ye, F Kuang, W Zhuang, Z Li, Z Han, L Lin, D Povey
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/Flow2GAN)
+## Speech recognition
 
 - **[ICLR 2025]** [CR-CTC: Consistency regularization on CTC for improved speech recognition](https://arxiv.org/abs/2410.05101),
   **Z Yao**, W Kang, X Yang, F Kuang, L Guo, H Zhu, Z Jin, Z Li, L Lin, D Povey
@@ -60,21 +58,7 @@ My research mainly focuses on speech and audio modeling (recognition, generation
   W Kang\*, **Z Yao**\*, F Kuang, L Guo, X Yang, L Lin, P Żelasko, D Povey
   [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/icefall/pull/654)
 
-- **[TASLP 2022]** [Stepwise-refining speech separation network via fine-grained encoding in high-order latent domain](https://arxiv.org/abs/2110.04791),
-  **Z Yao**, W Pei, F Chen, G Lu, D Zhang
 
-- **[NeurIPS 2025 Spotlight, Top 3.19%]** [TransMLA: Migrating GQA Models to MLA with Full DeepSeek Compatibility and Speedup](https://openreview.net/pdf?id=TcVCu2PKb9),
-  F Meng, P Tang, **Z Yao**, X Sun, M Zhang
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/MuLabPKU/TransMLA)
-
-- **[ACL 2026 Findings]** [ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching](https://arxiv.org/abs/2507.09318),
-  H Zhu, W Kang, L Guo, **Z Yao**, F Kuang, W Zhuang, Z Li, Z Han, D Zhang, X Zhang, X Song, L Lin, D Povey
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
-  
-- **[ASRU 2025]** [ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching](https://arxiv.org/abs/2506.13053),
-  H Zhu, W Kang, **Z Yao**, L Guo, F Kuang, Z Li, W Zhuang, L Lin, D Povey
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
-  
 - **[ICASSP 2024]** [PromptASR for contextualized ASR with controllable style](https://arxiv.org/abs/2309.07414),
   X Yang, W Kang, **Z Yao**, Y Yang, L Guo, F Kuang, L Lin, D Povey
 
@@ -93,6 +77,31 @@ My research mainly focuses on speech and audio modeling (recognition, generation
 
 - **[INTERSPEECH 2022]** [Pruned RNN-T for fast, memory-efficient ASR training](https://arxiv.org/abs/2206.13236),
   F Kuang, L Guo, W Kang, L Lin, M Luo, **Z Yao**, D Povey
+
+## Speech generation
+
+- **[ICLR 2026]** [Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation](https://arxiv.org/abs/2512.23278),
+  **Z Yao**, W Kang, H Zhu, L Guo, L Ye, F Kuang, W Zhuang, Z Li, Z Han, L Lin, D Povey
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/Flow2GAN)
+
+- **[ACL 2026 Findings]** [ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching](https://arxiv.org/abs/2507.09318),
+  H Zhu, W Kang, L Guo, **Z Yao**, F Kuang, W Zhuang, Z Li, Z Han, D Zhang, X Zhang, X Song, L Lin, D Povey
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
+  
+- **[ASRU 2025]** [ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching](https://arxiv.org/abs/2506.13053),
+  H Zhu, W Kang, **Z Yao**, L Guo, F Kuang, Z Li, W Zhuang, L Lin, D Povey
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/k2-fsa/ZipVoice)
+
+## Speech separation
+
+- **[TASLP 2022]** [Stepwise-refining speech separation network via fine-grained encoding in high-order latent domain](https://arxiv.org/abs/2110.04791),
+  **Z Yao**, W Pei, F Chen, G Lu, D Zhang
+
+## LLM 
+
+- **[NeurIPS 2025 Spotlight, Top 3.19%]** [TransMLA: Migrating GQA Models to MLA with Full DeepSeek Compatibility and Speedup](https://openreview.net/pdf?id=TcVCu2PKb9),
+  F Meng, P Tang, **Z Yao**, X Sun, M Zhang
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" alt="Code">](https://github.com/MuLabPKU/TransMLA)
 
 # 📖 Educations
 - *2019.09 - 2022.01*, Harbin Institute of Technology, Master of Engineering in Computer Technology 
